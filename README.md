@@ -46,7 +46,7 @@ URL da publicação
 
 Conteúdo textual completo
 
-Salva os dados no PostgreSQL ou em arquivos Excel, conforme configurado.
+Salva os dados em arquivos Excel, conforme configurado.
 
 Tecnologias Utilizadas
 
@@ -55,8 +55,6 @@ Python - Linguagem principal para automação
 Selenium - Para navegação automática e scraping
 
 Pandas - Para manipulação e estruturação dos dados
-
-PostgreSQL - Banco de dados para armazenar os registros
 
 Excel (.xlsx) - Alternativa de armazenamento local dos dados
 
